@@ -1,4 +1,5 @@
 org.symphonyoss.client
+org.symphonyoss.client.common
 org.symphonyoss.client.impl
 org.symphonyoss.client.model
 org.symphonyoss.client.services
